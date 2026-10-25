@@ -9,7 +9,6 @@ const staticRoutes = [
   "/contact",
   "/privacy",
   "/terms",
-  "/sitemap",
 ];
 
 const serviceRoutes = [
