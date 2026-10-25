@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "ARTBUILT CONTRACTING L.L.C S.O.C",
   description: "Construction and interior finishing services in Dubai.",
+  other: {
+    "google-site-verification": "iUcQxBAf3fE3pYVYJ-bMUgFu0ZE5Clzte9hJEmM7lks",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
