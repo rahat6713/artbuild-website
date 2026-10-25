@@ -7,7 +7,7 @@ export const siteConfig = {
     ar: "العربية",
     zh: "中文",
   },
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://artbuilduae.vercel.app",
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://artbuiltuae.vercel.app",
   defaultImage: "/images/og-card.jpg",
   title: "ARTBUILT CONTRACTING L.L.C S.O.C",
   description:
@@ -15,5 +15,5 @@ export const siteConfig = {
 };
 
 export const productionHostValidation = {
-  allowedHosts: ["localhost", "127.0.0.1", "artbuilduae.vercel.app"],
+  allowedHosts: ["localhost", "127.0.0.1", "artbuiltuae.vercel.app"],
 };
